@@ -25,7 +25,7 @@ I'm Henok Mekonnen, a web developer with a strong passion for creating efficient
 </p>
 
 # 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=henask12&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
+![](https://github-readme-stats.vercel.app/api?username=henask12&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=henask12&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=henask12&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
