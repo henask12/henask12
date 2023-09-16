@@ -16,6 +16,8 @@ I'm Henok Mekonnen, a web developer with a strong passion for creating efficient
      <img src="https://skillicons.dev/icons?i=linux,git,postman"/>
 </p>
 <br />
+[![committers.top badge](https://user-badge.committers.top/ethiopia/henask12.svg)](https://user-badge.committers.top/ethiopia/henask12)
+
 <h3 align="left">Connect with me:</h3>
 <p>Feel free to reach out to me at henokmekonnen5@gmail.com</p>
 <p align="left">
